@@ -6,7 +6,7 @@ This project is a web-based chat application designed to facilitate real-time co
 
 ## Preview
 
-<img src="Preview.gif" width="70%">
+<img src="Preview.gif" width="100%">
 
 ## Technologies Used
 
